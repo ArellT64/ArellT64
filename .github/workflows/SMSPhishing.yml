@@ -1,0 +1,5 @@
+git clone https://github.com/yashrao/SMS-Phishing-Attacker
+cd SMS-Phishing-Attacker
+python3 -m venv venv
+source venv/bin/activate
+pip3 install -r requirements.txt
